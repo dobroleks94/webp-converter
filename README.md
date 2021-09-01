@@ -9,8 +9,8 @@ Requirements: <br />
 					webp_script_win.bat [paths_to_input_photos_folder_in_double_quotes] [path_to_output_folder_in_double_quotes] <br />
 ---- The last argument might be optional - in that case the script will create the result folder in current execution directory <br />
 Example: <br />
- >>> webp_script_win.bat "D:\input"  <br />
- >>> webp_script_win.bat "D:\input" "D:\output" <br />
+ >>>> webp_script_win.bat "D:\input"  <br />
+ >>>> webp_script_win.bat "D:\input" "D:\output" <br />
 *Linux*: <br />
 Requirements: <br />
 ---- Input and output paths shouldn't contain space characters <br />
@@ -19,6 +19,6 @@ Requirements: <br />
 				./webp_converter.sh [input_path_without_double_quotes] [output_path_without_quotes] <br />
 ---- The last argument might be optional - in that case the script will create the result folder with predefined path <br />
 Example:
->>> ./webp_converter.sh /home/user/input/ <br />
->>> ./webp_converter.sh /home/user/input/ /home/user/output/ <br />
+>>>> ./webp_converter.sh /home/user/input/ <br />
+>>>> ./webp_converter.sh /home/user/input/ /home/user/output/ <br />
 
