@@ -18,7 +18,7 @@ Requirements: <br />
 ---- Run script with command: <br />
 				./webp_converter.sh [input_path_without_double_quotes] [output_path_without_quotes] <br />
 ---- The last argument might be optional - in that case the script will create the result folder with predefined path <br />
-Example:
+Example: <br />
 ----> ./webp_converter.sh /home/user/input/ <br />
 ----> ./webp_converter.sh /home/user/input/ /home/user/output/ <br />
 
