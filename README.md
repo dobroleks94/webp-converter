@@ -1,4 +1,4 @@
-# webp-converter\n
+# webp-converter__
 Scripts to compress images using webp tool\n
 **Usage**\n
 *Windows*:\n
