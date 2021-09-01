@@ -21,5 +21,5 @@ Requirements: <br />
     - The last argument might be optional - in that case the script will create the result folder with predefined path <br />
 Example:
 1) ./webp_converter.sh /home/user/input/ <br />
-2) ./webp_converter.sh /home/user/input/ /home/user/output/ <br />
+2)  ./webp_converter.sh /home/user/input/ /home/user/output/ <br />
 
