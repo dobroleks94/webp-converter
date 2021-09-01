@@ -11,7 +11,6 @@ Requirements: <br />
 Example: <br />
 1) ./webp_script_win.bat "D:\input"  <br />
 2) ./webp_script_win.bat "D:\input" "D:\output" <br />
-<br />
 *Linux*: <br />
 Requirements: <br />
     - Input and output paths shouldn't contain space characters <br />
